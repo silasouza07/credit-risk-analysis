@@ -5,22 +5,7 @@ SQL (MySQL), até um dashboard interativo no Power BI — simulando o
 trabalho de um analista júnior avaliando risco de inadimplência de
 crédito para uma fintech.
 
-## 📸 Dashboard
-
-<p align="center">
-  <img src="images/dashboard-1.png" width="48%">
-  <img src="images/dashboard-2.png" width="48%">
-</p>
-
-<p align="center">
-  <img src="images/dashboard-3.png" width="48%">
-  <img src="images/dashboard-4.png" width="48%">
-</p>
-
-<p align="center">
-  <img src="images/dashboard-5.png" width="48%">
-  <img src="images/dashboard-6.png" width="48%">
-</p>
+![Dashboard](imagens/dashboard_final.png)
 
 ## 🎯 Objetivo
 
@@ -37,9 +22,7 @@ um cliente que pagaria (perda apenas da margem de lucro futura)?
 Essa definição orienta toda a análise.
 
 ## 🗃️ Fonte dos Dados
-
 [Give Me Some Credit — Kaggle](https://www.kaggle.com/c/GiveMeSomeCredit/data)
-
 150.000 registros → 149.731 após limpeza.
 
 ## 🔍 Principais Insights
@@ -55,7 +38,6 @@ Essa definição orienta toda a análise.
   de zero — não representa risco real sem tratamento adicional.
 
 ## 🛠️ Tecnologias
-
 Excel · MySQL / MySQL Workbench · Power BI
 
 ## 📁 Estrutura do repositório
