@@ -5,7 +5,22 @@ SQL (MySQL), até um dashboard interativo no Power BI — simulando o
 trabalho de um analista júnior avaliando risco de inadimplência de
 crédito para uma fintech.
 
-![Dashboard](imagens/dashboard_final.png)
+## 📸 Dashboard
+
+<p align="center">
+  <img src="images/dashboard-1.png.jpeg" width="48%">
+  <img src="images/dashboard-2.png.PNG" width="48%">
+</p>
+
+<p align="center">
+  <img src="images/dashboard-3.png.PNG" width="48%">
+  <img src="images/dashboard-4.png.PNG" width="48%">
+</p>
+
+<p align="center">
+  <img src="images/dashboard-5.png.PNG" width="48%">
+  <img src="images/dashboard-6.png.PNG" width="48%">
+</p>
 
 ## 🎯 Objetivo
 
