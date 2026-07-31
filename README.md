@@ -56,7 +56,7 @@ Essa definição orienta toda a análise.
 Excel · MySQL / MySQL Workbench · Power BI
 
 #📁 Estrutura do projeto
-'''text
+```text
 ├── dados/
 │   ├── credito_bruto.csv
 │   └── credito_tratado.csv
@@ -67,7 +67,7 @@ Excel · MySQL / MySQL Workbench · Power BI
 ├── images/
 │   └── imagens utilizadas no README
 └── README.md
-'''
+```
 
 ▶️ Como executar
 
