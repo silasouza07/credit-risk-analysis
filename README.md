@@ -80,10 +80,10 @@ Excel · MySQL / MySQL Workbench · Power BI
 
 Esta é uma análise exploratória, não um modelo preditivo. O dataset contém informações de clientes de crédito, mas não inclui o histórico completo de decisões de aprovação ou recusa.
 
-👤 Autor
+## 👤 Autor
 
 Silas Araujo de Souza
 
-- LinkedIn: "Silas Souza" (https://linkedin.com/in/silas-souza-dados)
-- GitHub: "credit-risk-analysis" (https://github.com/silasouza07/credit-risk-analysis)
+- [LinkedIn](https://linkedin.com/in/silas-souza-dados)
+- [GitHub](https://github.com/silasouza07/credit-risk-analysis)
 
