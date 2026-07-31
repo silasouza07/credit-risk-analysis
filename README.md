@@ -55,4 +55,35 @@ Essa definição orienta toda a análise.
 ## 🛠️ Tecnologias
 Excel · MySQL / MySQL Workbench · Power BI
 
-## 📁 Estrutura do repositório
+#📁 Estrutura do projeto
+'''text
+├── dados/
+│   ├── credito_bruto.csv
+│   └── credito_tratado.csv
+├── sql/
+│   └── analise_risco_credito.sql
+├── powerbi/
+│   └── Dashboard_Risco_Credito.pbix
+├── images/
+│   └── imagens utilizadas no README
+└── README.md
+'''
+
+▶️ Como executar
+
+1. Baixe o dataset disponível neste repositório.
+2. Execute o script "sql/analise_risco_credito.sql" em um servidor MySQL.
+3. Abra o arquivo "powerbi/Dashboard_Risco_Credito.pbix" no Power BI Desktop.
+4. Caso necessário, ajuste a conexão com o banco de dados para o seu ambiente local.
+
+📌 Limitações
+
+Esta é uma análise exploratória, não um modelo preditivo. O dataset contém informações de clientes de crédito, mas não inclui o histórico completo de decisões de aprovação ou recusa.
+
+👤 Autor
+
+Silas Araujo de Souza
+
+- LinkedIn: adicione aqui o link do seu perfil
+- GitHub: adicione aqui o link deste repositório# 📁 Estrutura do repositório
+
