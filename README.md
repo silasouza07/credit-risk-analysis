@@ -84,6 +84,6 @@ Esta é uma análise exploratória, não um modelo preditivo. O dataset contém 
 
 Silas Araujo de Souza
 
-- LinkedIn: adicione aqui o link do seu perfil
-- GitHub: adicione aqui o link deste repositório# 📁 Estrutura do repositório
+- LinkedIn: "Silas Souza" (https://linkedin.com/in/silas-souza-dados)
+- GitHub: "credit-risk-analysis" (https://github.com/silasouza07/credit-risk-analysis)
 
