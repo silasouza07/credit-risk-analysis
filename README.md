@@ -8,18 +8,18 @@ crédito para uma fintech.
 ## 📸 Dashboard
 
 <p align="center">
-  <img src="images/dashboard-1.png.jpeg" width="48%">
-  <img src="images/dashboard-2.png.PNG" width="48%">
+  <img src="imagens/dashboard-1.png.jpeg" width="48%">
+  <img src="imagens/dashboard-2.png.PNG" width="48%">
 </p>
 
 <p align="center">
-  <img src="images/dashboard-3.png.PNG" width="48%">
-  <img src="images/dashboard-4.png.PNG" width="48%">
+  <img src="imagens/dashboard-3.png.PNG" width="48%">
+  <img src="imagens/dashboard-4.png.PNG" width="48%">
 </p>
 
 <p align="center">
-  <img src="images/dashboard-5.png.PNG" width="48%">
-  <img src="images/dashboard-6.png.PNG" width="48%">
+  <img src="imagens/dashboard-5.png.PNG" width="48%">
+  <img src="imagens/dashboard-6.png.PNG" width="48%">
 </p>
 
 ## 🎯 Objetivo
